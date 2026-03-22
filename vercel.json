@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/admin/:path*",
+      "destination": "https://painel.criapromo.com/admin/:path*",
+      "permanent": false
+    }
+  ]
+}
